@@ -10,16 +10,3 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-/**
- * Android
-1.Architecture
-- Clean Arch
-2.Components
- - Navigation
-3.Database
-- Room - Flow - Livedata
-4. Networking
-- Retrofit - GSON
- 5. Paging
- 6. Jetpack
- */
